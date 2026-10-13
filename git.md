@@ -40,3 +40,5 @@ git commit -m "message"
 git log
 git log --oneline # 핵심만 출력
 ```
+
+.
